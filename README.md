@@ -1,2 +1,2 @@
 # devops_learning
-Needed to practice CICD
+Needed to practice CI/CD
